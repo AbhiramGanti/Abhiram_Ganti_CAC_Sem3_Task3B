@@ -204,7 +204,7 @@ a:hover{
 /* 3. Banner */
 
 .banner_wrapper{
-    background-image: url('../bannerimg.png');
+    background-image: url('bannerimg.png');
     width: 1440px;
     height: 1008px;
     padding: 0rem;
