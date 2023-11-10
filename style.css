@@ -213,11 +213,6 @@ a:hover{
     background-size: cover;
 }
 
-.banner_wrapper .Banner{
-    width:1400px;
-    height:1008px;
-}
-
 .banner_wrapper .txt_container{
     position: absolute;
     width: 31.25rem;
